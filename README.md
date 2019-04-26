@@ -1,2 +1,3 @@
 # reactjs-movies
-React movie example
+
+React movie practice
